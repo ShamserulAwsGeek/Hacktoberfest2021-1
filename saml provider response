@@ -1,0 +1,8 @@
+<CreateSAMLProviderResponse xmlns="https://iam.amazonaws.com/doc/2010-05-08/">
+  <CreateSAMLProviderResult>
+    <SAMLProviderArn>arn:aws:iam::123456789012:saml-provider/MyUniversity</SAMLProviderArn>
+  </CreateSAMLProviderResult>
+  <ResponseMetadata>
+    <RequestId>29f47818-99f5-11e1-a4c3-27EXAMPLE804</RequestId>
+  </ResponseMetadata>
+</CreateSAMLProviderResponse>
